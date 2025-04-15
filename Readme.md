@@ -40,3 +40,9 @@ Generate AI implementation strategies for any industry:
 - Customer service automation
 - And more!
 
+
+
+
+https://github.com/user-attachments/assets/3bf2f169-eb94-44f0-b2be-3211b9386e21
+
+
