@@ -1,0 +1,17 @@
+# Core dependencies
+crewai>=0.28.0
+langchain>=0.0.267
+langchain-community>=0.0.10
+openai>=1.3.0
+
+# Search tools
+tavily-python>=0.2.2
+duckduckgo-search>=3.9.3
+
+# Web interface
+streamlit>=1.24.0
+pandas>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
